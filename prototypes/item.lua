@@ -76,7 +76,7 @@ data:extend
 		factoriopedia_durability_description_key = "description.factoriopedia-science-pack-remaining-amount-key",
 		durability_description_value = "description.science-pack-remaining-amount-value",
 		random_tint_color = item_tints.bluish_science,
-		spoil_ticks = 0.1 * minute,
+		spoil_ticks = 60 * minute,
 		spoil_to_trigger_result =
 		{
 		  items_per_trigger = 1,

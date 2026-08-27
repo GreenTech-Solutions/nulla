@@ -16,3 +16,4 @@ Discord: https://discord.gg/7WAtZSaZz5
 - Tense Sad Emotional Documentary by **Ashot_Danielyan**. Free licence
 - Dramatic Suspense by **Ashot_Danielyan**. Free licence
 - Dark Anxious Tension Dramatic Suspense by **Ashot_Danielyan**. Free licence
+- Polish language by **S3BA**. Used with permission for this mod

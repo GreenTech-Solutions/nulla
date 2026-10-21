@@ -61,7 +61,7 @@ end
 
 
 function nulla_utils.add_radio_interference_energy(proto, value)
-	if proto.energy_source then
+	if proto and proto.energy_source then
 		local es = proto.energy_source
 		es.emissions_per_minute = es.emissions_per_minute or {}
 		es.emissions_per_minute.radio_interference = value

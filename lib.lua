@@ -46,11 +46,7 @@ end
 
 function nulla_utils.add_radio_interference(proto, value)
 	proto.emissions_per_second = proto.emissions_per_second or {}
-    if proto.emissions_per_second.radio_interference then
-        table.insert(proto.emissions_per_second, { radio_interference = value })
-    else
-        proto.emissions_per_second = { radio_interference = value }
-    end
+	proto.emissions_per_second.radio_interference = value
 end
 
 
